@@ -1,0 +1,6 @@
+nome = input ('Qual seu nome poc?')
+print(' Ah então seu nome é ' +nome)
+dia = input ('Poczinha, em que dia você nasceu?')
+mes = input ('E em qual mês?')
+ano = input ('Por fim mine queride, em qual ano?')
+print ('  Ah então essa gay nasceu no dia '+dia+' no mês'+mes+' no ano de '+ano )
